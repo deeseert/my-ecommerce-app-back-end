@@ -78,4 +78,3 @@ production:
   database: my-ecommerce-app_production
   username: my-ecommerce-app
   password: <%= ENV['MY-ECOMMERCE-APP_DATABASE_PASSWORD'] %>
-cd 
