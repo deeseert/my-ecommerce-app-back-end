@@ -1,4 +1,7 @@
 # README
+### Front-End Code
+
+This is the GitHub link for the front-end code: https://github.com/deeseert/my-ecommerce-app-front-end
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
