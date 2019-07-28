@@ -18,14 +18,4 @@ class UsersController < ApplicationController
     end
   end
 
-  # def increase_likes
-  #   picture = Picture.find_by(id: params[:picture_id])
-  #   if picture
-  #     picture.like_count += 1
-  #     picture.save
-  #     render json: picture
-  #   else
-  #     render json: {error: "What is it???"}, status: 404
-  #   end
-  # end
 end
